@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 ⚡ Fun fact: I love gaming, animes and feel good stuff!
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yash-Tobre&theme=dawnfox&exclude_days=Sun%2CSat&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yash-Tobre&theme=dawnfox&exclude_days=Sun%2CSat&card_width=899)](https://git.io/streak-stats)
