@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 https://yashtobre.weebly.com/
-![WELCOME to my github!]
+WELCOME to my github!
 ![Untitled (11 × 8 5 in)](https://github.com/Yash-Tobre/Yash-Tobre/assets/60502700/2f483ab7-d9ab-4c40-9860-aface1cb0d8a)
 
 
