@@ -29,4 +29,4 @@ WELCOME to my github!
 ⚡ Fun fact: I love gaming, animes and feel good stuff!<br>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yash-Tobre&theme=dawnfox&exclude_days=Sun%2CSat&card_width=899)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yash-Tobre&theme=blue-navy&exclude_days=Sun%2CSat)](https://git.io/streak-stats))
