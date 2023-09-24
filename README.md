@@ -30,3 +30,9 @@ WELCOME to my github!
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yash-Tobre&theme=blue-navy&hide_border=true&exclude_days=Sun%2CSat&card_width=1080)](https://git.io/streak-stats)
+![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
