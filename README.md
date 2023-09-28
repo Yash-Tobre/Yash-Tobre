@@ -29,8 +29,7 @@ WELCOME to my github!
 ⚡ Fun fact: I love gaming, animes and feel good stuff!<br>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yash-Tobre&theme=sea&hide_border=true&exclude_days=Sun%2CSat&card_width=1080)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yash-Tobre&theme=cobalt2&hide_border=true&exclude_days=Sun%2CSat&card_width=1080)](https://git.io/streak-stats)
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
